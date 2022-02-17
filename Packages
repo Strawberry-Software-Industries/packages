@@ -9,3 +9,25 @@ SHA1: ccc68d32a0ccce59c77f46adc54a178cd36f789c
 SHA256: 3402aea64267fcf9b6342f2250190467b6201fe3ab7766c738c5cca9baaf0651
 Description: A simple program to control the status LEDs of your Raspberry Pi!
 
+Package: python3-build
+Version: 1.0
+Architecture: all
+Maintainer: Juliandev02, Strawberry Software Industries
+Filename: ./python3-build_1.0-1_all.deb
+Size: 19848
+MD5sum: 392aabef985764ef5bcbfa438d5c8150
+SHA1: 7c06dc74763e602fc0e014063ccf75d45e478375
+SHA256: 134dde96db394efc31d3fddc2394610c67c6b3b33108e20772337645377440e4
+Description: Simple build lib for C & C++
+
+Package: python3-sup3
+Version: 1.0
+Architecture: all
+Maintainer: Juliandev02, Strawberry Software Industries
+Filename: ./python3-sup3_1.0-1.all.deb
+Size: 41148
+MD5sum: 9611c27dcf0c4fe6d53b67a156f1eb1d
+SHA1: 458149880d5b7905f143a7d8558ce6a1e2e39fff
+SHA256: ffa1cc9043212530618b4d0f3fc7f835c795c5b1f42c0e80b741c008c2931cf7
+Description: Setup Utility for Python 3 - Create Installers easily for you Open Source Project!
+

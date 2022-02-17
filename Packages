@@ -2,32 +2,48 @@ Package: ledcontrol
 Version: 1.1
 Architecture: arm64
 Maintainer: Juliandev02, Strawberry Software Industries
-Filename: ./ledcontrol_1.1-1_arm64.deb
-Size: 4928
-MD5sum: ed240b7ec5a77b26d674e3f8ef6c5dc0
-SHA1: ccc68d32a0ccce59c77f46adc54a178cd36f789c
-SHA256: 3402aea64267fcf9b6342f2250190467b6201fe3ab7766c738c5cca9baaf0651
+Installed-Size: 20
+Filename: ./ledcontrol_1.1-2_arm64.deb
+Size: 4948
+MD5sum: 79e5a076363685906a32600ebf136777
+SHA1: fea41a1e4ad84cc63f9e999eb0fbbcdaa289839a
+SHA256: 5ef2311e3d16d4e18c0625f0811a69ed569cac6f1a631f3a730ab2dc6dba0a93
 Description: A simple program to control the status LEDs of your Raspberry Pi!
 
 Package: python3-build
 Version: 1.0
 Architecture: all
 Maintainer: Juliandev02, Strawberry Software Industries
-Filename: ./python3-build_1.0-1_all.deb
-Size: 19848
-MD5sum: 392aabef985764ef5bcbfa438d5c8150
-SHA1: 7c06dc74763e602fc0e014063ccf75d45e478375
-SHA256: 134dde96db394efc31d3fddc2394610c67c6b3b33108e20772337645377440e4
+Installed-Size: 154
+Filename: ./python3-build_1.0-2_all.deb
+Size: 19120
+MD5sum: ab810d04928efdde4676f498b00e2d1d
+SHA1: 2e67cfae7f3b45e8bde3033d080193a7b5ac34bb
+SHA256: e2dde509203873cb60b98207e6f693fe972f2ef4b2c8c463d28dc3095f479cf6
 Description: Simple build lib for C & C++
 
 Package: python3-sup3
 Version: 1.0
 Architecture: all
 Maintainer: Juliandev02, Strawberry Software Industries
-Filename: ./python3-sup3_1.0-1.all.deb
-Size: 41148
-MD5sum: 9611c27dcf0c4fe6d53b67a156f1eb1d
-SHA1: 458149880d5b7905f143a7d8558ce6a1e2e39fff
-SHA256: ffa1cc9043212530618b4d0f3fc7f835c795c5b1f42c0e80b741c008c2931cf7
+Installed-Size: 109
+Filename: ./python3-sup3_1.0-2-all.deb
+Size: 13388
+MD5sum: 1029d6814db26e56d1dbf382a6829e22
+SHA1: 7192897dff215bc5bd762bc6ff81b089a3c539c3
+SHA256: 8f7568f2afe3e872f5ccffd76b647ae714f535bdd5bae49ca9d9d17496efc4f7
 Description: Setup Utility for Python 3 - Create Installers easily for you Open Source Project!
+
+Package: strawlib-python
+Version: 1.0.1
+Architecture: all
+Maintainer: Juliandev02, Strawberry Software Industries
+Installed-Size: 5
+Depends: python3-psutil, python3-sql
+Filename: ./strawlib-python_1.0.1-1-all.deb
+Size: 1900
+MD5sum: ad8b957d56144b47634f4c4c355036da
+SHA1: db870310294627f8e013716585947fd2bff87769
+SHA256: b9f4c899b3460b4b014697665cf4bc46dec9c032a15488810440f9e5c6c76abb
+Description: Cross Platform Library - Developed for C, Python, and Java
 

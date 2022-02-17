@@ -1,0 +1,17 @@
+Date: Thu, 17 Feb 2022 16:11:57 +0000
+MD5Sum:
+ 847d681aa256706c0bce63d6d9c1bb86              400 Packages
+ fe1ca21b44e833abbd2e916ed84f490c              326 Packages.gz
+ becb25a8efe73c77f518e4187d4d2a8c               38 Release
+SHA1:
+ b041242b985c4f4aa6d72c86bb77edfd5748177a              400 Packages
+ 12eebe514246602c48c6b7e7bec015dd45335963              326 Packages.gz
+ 9c1a85776f87100358b07d2aa821900b088c9b2c               38 Release
+SHA256:
+ 3c5aaf98490cfe00b9572d12e5d859e9d0ab8a64ee6d84b5ce4599e12f9d4b70              400 Packages
+ 9883f45a41a9e8b86da6746eb595941c5e0f7b78ff3fb0962ec367f767301e01              326 Packages.gz
+ cb214810a7b5f053d82d534fefe4778da1c06e0fd7a2214b5a113906c3826257               38 Release
+SHA512:
+ 2e4b9b0fd808305db4ce4e204ca0b787a97181f12df33b56c2aab6c354a3f0e84b00c08dde93c9351bd3e32ce330735bc918f23a9e2858fed3360856b526e7b9              400 Packages
+ f272ff9f3bbfd218a7fbe8a6f9e266f3d97e65f74414854fc4cbf9fac8440bea3c8b8302e60c79057c1a47fd671b148d3176164a77726e0fa01f3a7cd8d472fe              326 Packages.gz
+ 6d5d9fb28fca94da749eab9b1a7ed53d42aeb791efbf495a47024faa90c4fae52d711878b0476fbc394df90c212976e0711ea6d8e8b2e7e014f72a07f73a8efe               38 Release

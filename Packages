@@ -1,0 +1,11 @@
+Package: ledcontrol
+Version: 1.1
+Architecture: arm64
+Maintainer: Juliandev02, Strawberry Software Industries
+Filename: ./ledcontrol_1.1-1_arm64.deb
+Size: 4928
+MD5sum: ed240b7ec5a77b26d674e3f8ef6c5dc0
+SHA1: ccc68d32a0ccce59c77f46adc54a178cd36f789c
+SHA256: 3402aea64267fcf9b6342f2250190467b6201fe3ab7766c738c5cca9baaf0651
+Description: A simple program to control the status LEDs of your Raspberry Pi!
+

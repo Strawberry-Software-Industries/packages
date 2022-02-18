@@ -10,6 +10,18 @@ SHA1: fea41a1e4ad84cc63f9e999eb0fbbcdaa289839a
 SHA256: 5ef2311e3d16d4e18c0625f0811a69ed569cac6f1a631f3a730ab2dc6dba0a93
 Description: A simple program to control the status LEDs of your Raspberry Pi!
 
+Package: neofetch
+Version: 7.2.0
+Architecture: all
+Maintainer: dylanaraps; Extension by Juliandev02
+Installed-Size: 340
+Filename: ./neofetch_7.2.0-1_all.deb
+Size: 88800
+MD5sum: 651c1d7a4611a2ae3b9e9995f0f0ab12
+SHA1: f017a2f9169062a6328346a929edb82b21b097cf
+SHA256: 73b6bda4030853466383e79676f4099b210c38578803d97dd3107a828e88cf22
+Description: A command-line system information tool written in bash 3.2+
+
 Package: python3-build
 Version: 1.0
 Architecture: all
